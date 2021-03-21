@@ -1,8 +1,14 @@
-# Verfehlungen und Irreführendes von SH
+# Aussagen von SH
+
+## Inhaltsverzeichnis
+
+* SH und die Realität
+* Schlecht gealtert
+* Selektive Wahrnehmung
+* SHs Umgang mit Anderen
 
 
-
-## SH vs Realität
+## SH und die Realität
 
 
 ### SH spricht von "hochgepeitschten Testzahlen
@@ -39,7 +45,62 @@ Quelle: https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=tru
 
 
 
-## SH beleidigt andere
+
+
+### "Winner is Sweden" - wenn man die Nachbarländer und ein paar mehr weglässt
+
+SH suggeriert Schweden habe am besten abgeschnitten, was den wirtschaftlichen Rückschlag angeht.
+
+<kbd>
+
+![image](https://user-images.githubusercontent.com/80644717/111699084-f4687f80-8837-11eb-82cb-2ff18e189bbf.png)
+
+</kbd>
+
+https://twitter.com/SHomburg/status/1367167919910752260
+
+Backup: https://web.archive.org/web/20210303174039/https://twitter.com/SHomburg/status/1367167919910752260
+
+In der Realität haben Schwedens Nachbarländer Norwegen und Finnland mit ihren strikten Maßnahmen (Norwegen hat Geschäfte und Schulen im Frühjahr 2020 schon vor Deutschland geschlossen) wirtschaftlich deutlich besser abgeschnitten als Schweden. Andere Länder ebenfalls.
+
+![image](https://user-images.githubusercontent.com/80644717/111699943-0dbdfb80-8839-11eb-80c7-c2dce9ec65b3.png)
+
+
+Quelle: https://ec.europa.eu/eurostat/documents/portlet_file_entry/2995521/2-16022021-AP-EN.pdf/eb164095-6de4-a6a1-cd87-60c4a645e5e1
+Backup: https://web.archive.org/web/20210216101535/https://ec.europa.eu/eurostat/documents/portlet_file_entry/2995521/2-16022021-AP-EN.pdf/eb164095-6de4-a6a1-cd87-60c4a645e5e1
+
+
+
+
+## Russische Lockerheit - keine Auswirkung auf die Coronatoten?
+
+SH suggeriert in Russland gebe es trotz weniger strikten Maßnahmen weniger Coronatote als in Deutschland.<br>
+Eigentlich spricht er im Tweet von einem Ereignis des Vortags, das noch nicht zur Steigerung der Toten geführt habe, aber dass die Todesfälle nicht so schnell eintreten, weiß er selbst. Der Folgetweet erklärt dann auch, dass es im die geringere Strenge der Maßnahmen geht.
+
+<kbd>
+ 
+![image](https://user-images.githubusercontent.com/80644717/111700425-aeacb680-8839-11eb-850a-39cafbf7d313.png)
+  
+</kbd>
+
+Auf den ersten Blick scheint ihm die abgebildete Statistik Recht zu geben. Aber in der Realität gab es gegen Jahresende in Russland eine extreme Übersterblichkeit. Alleine im Dezember sind 90.000 Menschen mehr gestorben als in den Vorjahren - ein Plus von 59%! Die angeblich nur 17.660 sind daher bei weitem
+https://www.bmj.com/content/372/bmj.n440
+
+![image](https://user-images.githubusercontent.com/80644717/111703888-968b6600-883e-11eb-9f48-ac3b695d138d.png)
+
+Quelle: https://ourworldindata.org/grapher/excess-mortality-raw-death-count?country=~RUS
+Originalquelle: https://rosstat.gov.ru/storage/mediabank/TwbjciZH/edn12-2020.html
+
+
+
+
+
+
+## Selektive Wahrnehmung
+
+
+
+## SHs Umgang mit Anderen
 
 
 ### SH sagt die Vorständin der Deutschen Statistischen Gesellschaft habe "nichts in der Birne"
