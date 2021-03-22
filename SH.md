@@ -18,8 +18,7 @@ er spricht von "hochgepeitschten Testzahlen":
 
 <kbd>
 
-![image](https://user-images.githubusercontent.com/80644717/111085549-18665100-8518-11eb-9c05-bc06fff7971d.png)
-
+<img src="https://user-images.githubusercontent.com/80644717/111085549-18665100-8518-11eb-9c05-bc06fff7971d.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111085549-18665100-8518-11eb-9c05-bc06fff7971d.png" width="520"/>
 
 </kbd>
 
@@ -31,8 +30,8 @@ Deutschland hat eine etwa konstante Testzahl, weit unter dem früheren Höchstst
 
 <kbd>
 
-![image](https://user-images.githubusercontent.com/80644717/111085568-27e59a00-8518-11eb-900e-6bd7744fc107.png)
-
+![image]()
+<img src="https://user-images.githubusercontent.com/80644717/111085568-27e59a00-8518-11eb-900e-6bd7744fc107.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111085568-27e59a00-8518-11eb-900e-6bd7744fc107.png" width="700"/>
 
 </kbd>
 
@@ -47,13 +46,13 @@ Quelle: https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=tru
 
 
 
-### "Winner is Sweden" - wenn man die Nachbarländer und ein paar mehr weglässt
+### "The Winner is Sweden" - wenn man die Nachbarländer und ein paar mehr weglässt
 
 SH suggeriert Schweden habe am besten abgeschnitten, was den wirtschaftlichen Rückschlag angeht.
 
 <kbd>
 
-![image](https://user-images.githubusercontent.com/80644717/111699084-f4687f80-8837-11eb-82cb-2ff18e189bbf.png)
+<img src="https://user-images.githubusercontent.com/80644717/111699084-f4687f80-8837-11eb-82cb-2ff18e189bbf.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111699084-f4687f80-8837-11eb-82cb-2ff18e189bbf.png" width="520" />
 
 </kbd>
 
@@ -63,7 +62,7 @@ Backup: https://web.archive.org/web/20210303174039/https://twitter.com/SHomburg/
 
 In der Realität haben Schwedens Nachbarländer Norwegen und Finnland mit ihren strikten Maßnahmen (Norwegen hat Geschäfte und Schulen im Frühjahr 2020 schon vor Deutschland geschlossen) wirtschaftlich deutlich besser abgeschnitten als Schweden. Andere Länder ebenfalls.
 
-![image](https://user-images.githubusercontent.com/80644717/111699943-0dbdfb80-8839-11eb-80c7-c2dce9ec65b3.png)
+<img src="https://user-images.githubusercontent.com/80644717/111699943-0dbdfb80-8839-11eb-80c7-c2dce9ec65b3.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111699943-0dbdfb80-8839-11eb-80c7-c2dce9ec65b3.png" width="640"/>
 
 
 Quelle: https://ec.europa.eu/eurostat/documents/portlet_file_entry/2995521/2-16022021-AP-EN.pdf/eb164095-6de4-a6a1-cd87-60c4a645e5e1
@@ -79,14 +78,14 @@ Eigentlich spricht er im Tweet von einem Ereignis des Vortags, das noch nicht zu
 
 <kbd>
  
-![image](https://user-images.githubusercontent.com/80644717/111700425-aeacb680-8839-11eb-850a-39cafbf7d313.png)
+<img src="https://user-images.githubusercontent.com/80644717/111700425-aeacb680-8839-11eb-850a-39cafbf7d313.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111700425-aeacb680-8839-11eb-850a-39cafbf7d313.png" width="520"/>
   
 </kbd>
 
 Auf den ersten Blick scheint ihm die abgebildete Statistik Recht zu geben. Aber in der Realität gab es gegen Jahresende in Russland eine extreme Übersterblichkeit. Alleine im Dezember sind 90.000 Menschen mehr gestorben als in den Vorjahren - ein Plus von 59%! Die angeblich nur 17.660 sind daher bei weitem
 https://www.bmj.com/content/372/bmj.n440
 
-![image](https://user-images.githubusercontent.com/80644717/111703888-968b6600-883e-11eb-9f48-ac3b695d138d.png)
+<img src="https://user-images.githubusercontent.com/80644717/111703888-968b6600-883e-11eb-9f48-ac3b695d138d.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111703888-968b6600-883e-11eb-9f48-ac3b695d138d.png" width="800"/>
 
 Quelle: https://ourworldindata.org/grapher/excess-mortality-raw-death-count?country=~RUS
 Originalquelle: https://rosstat.gov.ru/storage/mediabank/TwbjciZH/edn12-2020.html
@@ -109,8 +108,7 @@ Katharina Schüller, unter anderem CEO von STAT-UP Statistical Consulting & Data
 
 <kbd>
   
-![image](https://user-images.githubusercontent.com/80644717/111085576-33d15c00-8518-11eb-932c-fb352788b514.png)
-
+<img src="https://user-images.githubusercontent.com/80644717/111085576-33d15c00-8518-11eb-932c-fb352788b514.png" data-canonical-src="https://user-images.githubusercontent.com/80644717/111085576-33d15c00-8518-11eb-932c-fb352788b514.png" />
 
 </kbd>
 
