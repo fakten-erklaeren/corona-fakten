@@ -1,3 +1,3 @@
 # corona-fakten
 
-Zusammengetragene Fakten
+Fakten über Corona
